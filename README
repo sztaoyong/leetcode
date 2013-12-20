@@ -1,0 +1,27 @@
+Sample Solutions for problems in leetcode.com
+author: Yong Tao (sztaoyong@gmail.com)
+
+I have selected a subset of problems from Online Judge(OJ) of leetcode.com. All 
+codes are written in Jave. Note that although I have tried my best to double
+-check the codes, provide clear comments and have tested with OJ, there is no 
+warranty for the code.
+
+I have grouped the sample problems and questions to mutliple folders based on 
+their underlying data structures and algorithms. The name of folders and their
+explanations are listed as follows:
+
+Data Structures:
+AS: array and string
+LL: linked list
+SQ: stack and queue
+TG: tree and graph
+
+Algorithms:
+BT: back tracking
+DP: dynamic programming and recursion
+MA: math and statistics
+SS: search and sorting
+
+To find the problem index, please refer to leetcode problem difficulty 
+level and frequency table (google 'leetcode frequency').
+
